@@ -1,8 +1,9 @@
 # Laboratorio-6
 Azure DevOps
 
-## **Autores:** David Narváez - Cristian Rodríguez
+## Autores: David Narváez - Cristian Rodríguez
 
+### Solución
 
 ![](./images/1.png)
 
