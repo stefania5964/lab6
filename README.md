@@ -32,9 +32,15 @@ seleccionamos el mismo de la base de datos **partsunlimited**
 
 ![](./images/6.png)
 
+7. Creamos un nuevo plan de servicio y modificamos su tamaño a **S1** en la sección de **producción**, aplicamos los cambios y creamos
 
-![](./images/2.png)
-![](./images/2.png)
+![](./images/7.png)
+
+8. Nuevamente hacemos el mismo proceso pero en el nombre agregamos **-prod** y lo creamos.
+
+![](./images/8.png)
+
+9. 
 ![](./images/2.png)
 ![](./images/2.png)
 ![](./images/2.png)
